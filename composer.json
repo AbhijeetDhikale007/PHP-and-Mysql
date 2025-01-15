@@ -1,9 +1,9 @@
 {
-    "name": "abhijeetdhikale007/PHP-and-Mysql",
-    "description": "A project on PHP and MySQL",
+    "name": "abhijeetdhikale007/php-and-mysql",
+    "description": "A brief description of your project",
     "require": {
         "php": "^8.3",
-        "setup-php": "github:shivammathur/setup-php",
-        "ext-mysqli": "*"
+        "ext-mysqli": "*",
+        "setup-php": "github:shivammathur/setup-php"
     }
 }
