@@ -3,7 +3,6 @@
     "description": "A brief description of your project",
     "require": {
         "php": "^8.3",
-        "ext-mysqli": "*",
-        "setup-php": "github:shivammathur/setup-php"
+        "ext-mysqli": "*"
     }
 }
